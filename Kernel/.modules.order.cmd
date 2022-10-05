@@ -1,0 +1,1 @@
+cmd_/home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Kernel/modules.order := {   echo /home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Kernel/hello.ko; :; } | awk '!x[$$0]++' - > /home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Kernel/modules.order

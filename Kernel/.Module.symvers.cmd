@@ -1,0 +1,1 @@
+cmd_/home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Kernel/Module.symvers := sed 's/\.ko$$/\.o/' /home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Kernel/modules.order | scripts/mod/modpost -m -a  -o /home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Kernel/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Practice/memory32.mod := { echo  /home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Practice/memory32.o;  echo; } > /home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Practice/memory32.mod

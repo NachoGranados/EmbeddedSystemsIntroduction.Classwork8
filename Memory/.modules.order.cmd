@@ -1,0 +1,1 @@
+cmd_/home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Memory/modules.order := {   echo /home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Memory/memory.ko; :; } | awk '!x[$$0]++' - > /home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/Memory/modules.order
