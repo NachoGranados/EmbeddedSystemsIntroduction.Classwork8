@@ -1,0 +1,1 @@
+cmd_/home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/nothing.mod := { echo  /home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/nothing.o;  echo; } > /home/nachogranados/Documents/GitHub/EmbeddedSystemsIntroduction.Classwork8/nothing.mod
